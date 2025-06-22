@@ -1,0 +1,30 @@
+============================================================
+        J. SANTOSH RAJ – PROJECTS & PORTFOLIO LINKS
+============================================================
+
+👨‍💻 GitHub Profile
+https://github.com/santosh1231we
+→ My main coding portfolio. Projects include ML, web apps, and space-related tools.
+
+🌌 Web App – Galaxia12W
+https://galaxia12w.netlify.app
+→ A space-themed app built with JS & Three.js. Shows constellations, space content, and astronomy tools.
+
+📊 Kaggle Profile
+https://www.kaggle.com/santoshrajj
+→ Machine learning and data science projects. Working on Titanic, Jane Street, and custom ML ideas.
+
+📁 Portfolio Repo (Coming Soon)
+https://github.com/santosh1231we/My achievements
+→ Will contain all deployed projects, certificates, README.md, and resume in one shareable place.
+
+📧 Official Email (Professional)
+santoshraj.tum@gmail.com
+→ Use this for internships, scholarships, LORs, university communication.
+
+============================================================
+Extra Notes:
+- Resume includes these links on the first page.
+- All projects will be pushed after testing locally.
+- Certificates from internships will be added to the GitHub repo & Google Drive.
+============================================================
